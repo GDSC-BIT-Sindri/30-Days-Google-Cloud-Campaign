@@ -57,7 +57,7 @@ And last date for completing the task is 27th October 11:59 PM IST.
 
 [How to get Qwiklabs Public profile URL](https://www.youtube.com/watch?v=GyQE-JnylSs&t=190s&ab_)
 
-[30 Days of Google Cloud Info and Intro to Google Cloud](https://www.youtube.com/watch?v=DBcQ4XwrQBM&t=108s&ab_)
+[30 Days of Google Cloud Info and Intro to Google Cloud](https://youtu.be/oms6H-uicrI)
 <hr/>
 
 ## 📌Resources
