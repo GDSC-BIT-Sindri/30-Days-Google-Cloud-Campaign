@@ -1,5 +1,3 @@
-# 30-Days-Google-Cloud-Campaign
-
 # 📌30-Days-of-Google-Cloud
 
 <h4>📍What is 30 Days of Google Cloud?</h4>
