@@ -72,6 +72,26 @@ And last date for completing the task is 27th October 11:59 PM IST.
 9. [Cloud Computing](https://youtu.be/RWgW-CgdIk0)
 10. [Database](https://www.javatpoint.com/what-is-database)
 
+## 📌Notes for beginners to get started:
+1. Complete **2-3 labs on per day basis**, else, you won't be able to complete the tracks on time.
+
+2. Since every lab has some time limit within which that lab needs to be completed, it's good knowing about that particular lab previously. 
+
+3. Do read the **lab documentation** properly to be able to answer the MCQ questions.
+
+4. If got stuck while completing labs and have less remaining time, make the use of online blogs to complete the tracks on time(be smart).
+
+5. Try to pass a lab at max in **3 attempts**.
+
+6. In case of any query, one can reach **GDSC BIT Sindri members**, and they will help you.
+
+7. Those registered students who will not be able to complete either one or both the tracks will get deprived of his/her participation in future events from the facilitator's end as we will be strictly monitoring your activity.
+(You are among the fortunate ones who got registered successfully but many people did not get the chance this time so please don't miss the opportunity.)
+
+8. Go to the link below to get the reference of skill badges that need to be completed for the tracks, resources & prizes https://github.com/GDSC-BIT-Sindri/30-Days-Google-Cloud-Campaign
+
+### Start from today and be the master of this most paid service
+
 <h4>📍 For any Query:</h4>
 *Reach out to the Qwiklabs Chat support via the Qwiklabs home page. (You will need to click on the help button "?" alongside your profile icon on the top right corner when logged-in in order to access chat support)
 *Just drop an email to dscsupport@qwiklabs.com.
