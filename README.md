@@ -71,6 +71,7 @@ And last date for completing the task is 27th October 11:59 PM IST.
 8. [Virtual Machine](https://www.vmware.com/topics/glossary/content/virtual-machine)
 9. [Cloud Computing](https://youtu.be/RWgW-CgdIk0)
 10. [Database](https://www.javatpoint.com/what-is-database)
+11. [Virtual Private Cloud (VPC)](https://cloud.google.com/vpc/docs/overview)
 
 <h4>📍 For any Query:</h4>
 *Reach out to the Qwiklabs Chat support via the Qwiklabs home page. (You will need to click on the help button "?" alongside your profile icon on the top right corner when logged-in in order to access chat support)
